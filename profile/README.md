@@ -1,12 +1,9 @@
-## Hi there 👋
+# SmartIoT
 
-<!--
+En esta organización se encuentran los distintos repositorios en los que se compone el proyecto.
 
-**Here are some ideas to get you started:**
+- [Cosecha](https://github.com/Embebidos-SmartIoT/Cosecha) - Código para construir y desplegar un sistema distribuido de estaciones de monitoreo ambiental y nodos IoT.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Agricola](https://github.com/Embebidos-SmartIoT/Agricola) - Contiene los recursos para un sistema de monitoreo y control agrícola, incluyendo código de gateways, dataloggers industriales, comunicación LoRa y un backend/frontend web.
+
+- [Agrodash](https://github.com/Embebidos-SmartIoT/Agrodash)
